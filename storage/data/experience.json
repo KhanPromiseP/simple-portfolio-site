@@ -1,0 +1,23 @@
+{
+    "heading": "Work Experience",
+    "items": [
+        {
+            "company": "SubscriptionPro",
+            "position": "Software Engineer",
+            "date": "Dec 2021 - Present",
+            "description": "As a Software Engineer at SubscriptionPro, I have played a crucial role in developing a comprehensive SaaS platform for subscription management. I have contributed to all aspects of development, including architecture, database design, frontend, and backend."
+        },
+        {
+            "company": "Fiverr",
+            "position": "Full Stack Developer",
+            "date": "Dec 2019 - Present",
+            "description": "Created professional and responsive websites for clients globally. Helped assist clients in redesigning their current websites using WordPress, Laravel to their complete satisfaction."
+        },
+        {
+            "company": "LyceumSystems",
+            "position": "Full Stack Developer",
+            "date": "Dec 2019 - Jun 2022",
+            "description": "Strengthened the security of the school management system by fixing SQL injection, XSS, and CSRF. Incorporated new features to existing school management system using PHP & MySQL. Helped upgrade existing school management system into Laravel, Vue.js. Solved business challenges by developing scalable web applications using Laravel"
+        }
+    ]
+}

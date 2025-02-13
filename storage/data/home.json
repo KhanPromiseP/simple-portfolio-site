@@ -1,0 +1,28 @@
+{
+    "profile": {
+        "image": "ashraful.jpg",
+        "name": "Md. Ashraful",
+        "profession": "Full Stack Developer",
+        "phone": "+8801703578985",
+        "email": "hi@mohammadashraful.com",
+        "location": "Dhaka, Bangladesh",
+        "facebook_url": "https://www.facebook.com/ashraful786/",
+        "instagram_url": "https://www.instagram.com/freelancer.ashraful/",
+        "twitter_url": "https://x.com/ashraful1952",
+        "linkedin_url": "https://www.linkedin.com/in/ashraful1971/",
+        "cv_url": "https://www.linkedin.com/in/ashraful1971/"
+    },
+    "about": {
+        "heading": "A little about me",
+        "description": "I'm a highly adaptable and passionate Full Stack Developer, driven by a constant thirst for knowledge and a penchant for creating impactful solutions. Eager to leverage my rapid learning abilities to excel in a collaborative team environment. Seeking a developer position to apply my versatile skills, contribute meaningfully to projects, and grow alongside an innovative team."
+    },
+    "service": {
+        "heading": "What I do!",
+        "items": [
+            "Web Design",
+            "Web Development",
+            "App Development",
+            "UI/UX Design"
+        ]
+    }
+}
